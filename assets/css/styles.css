@@ -1,0 +1,29 @@
+body {
+  font-family: 'Inter';
+}
+
+.welcome-section {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 50%;
+}
+
+.home-btn {
+  margin-right: 10px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.os-img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
